@@ -1,0 +1,10 @@
+id: YDP320B006-V1
+category: displays
+size: "3.2"
+panel: tft
+resolution: 240x320
+interface: [spi]
+driver: ST7789P3
+touch: null
+outline: 53.6 x 76 mm
+active_area: 48.6 x 64.8 mm
